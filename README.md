@@ -1,8 +1,6 @@
 # ArduinoRFIDCopier
-Ардуино скрипт для копирования RFID меток
-
-Arduino script for copying RFID cards.
-
+Ардуино скрипт для копирования RFID меток/Arduino script for copying RFID cards.
+­
 
 Что понадобиться:
 1) Ардуино
@@ -16,6 +14,7 @@ What's needed:
 3) 2 x LED
 4) Button
 
+.
 
 Как пользоваться:
 1) Откройте скрипт и сконфигурируйте порты
