@@ -4,17 +4,20 @@
 Arduino script for copying RFID cards.
 
 
+
 Что понадобиться:
 1) Ардуино
 2) rc522
 3) 2 x Светодиода
 4) Кнопка
 
+
 What's needed:
 1) Arduino
 2) rc522
 3) 2 x LED
 4) Button
+
 
 
 Как пользоваться:
