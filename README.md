@@ -7,12 +7,14 @@
 2) rc522
 3) 2 x Светодиода
 4) Кнопка
+5) Библиотеки, указанные в скрипте
 
 What's needed:
 1) Arduino
 2) rc522
 3) 2 x LED
 4) Button
+5) Libraries mentioned in the script
 
 .
 
